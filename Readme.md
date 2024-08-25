@@ -1,4 +1,4 @@
-## Analysis of Passenger and Flight Data for Quantexa Assignment
+## Analysis of Passenger and Flight Data
 
 Given two csv input files, `flightData.csv` and `passengers.csv`, this project answers
 five questions and provides answers written to respective csv files:
